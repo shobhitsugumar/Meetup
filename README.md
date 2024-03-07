@@ -31,4 +31,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ### Questions :
 1. What is a WebRTC?
-   - WebRTC stands for Web Real-Time-Communication.is an open source project that enables real-time-communication capabilities directly in web browsers and other application.It allows developers to incorporate features such as audio and video calling, peer-to-peer data sharing, and real-time messaging into their web applications without the need for additional plugins or software installations.
+   - WebRTC stands for Web Real-Time-Communication , is an open source project that enables real-time-communication capabilities directly in web browsers and other application.It allows developers to incorporate features such as audio and video calling, peer-to-peer data sharing, and real-time messaging into their web applications without the need for additional plugins or software installations.
